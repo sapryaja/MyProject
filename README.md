@@ -10,6 +10,10 @@ IFR FAW      : 325 images
 IFR Healthy  : 308 images
 iPhone FAW   : 271 images
 
+## Dataset
+
+You can access the dataset used for this project on Figshare: [A Thermal and RGB Image Dataset for Fall Army Worm Detection in Maize Leaves](https://figshare.com/s/677d2384ba6e02db9230).
+
 
 🛠 Installation
 
